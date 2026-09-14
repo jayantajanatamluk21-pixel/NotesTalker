@@ -1,0 +1,6 @@
+{
+  "name": "Secure Notes",
+  "description": "End-to-end encrypted notes with offline access, automatic cloud sync, and zero-knowledge privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
